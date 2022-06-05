@@ -14,5 +14,10 @@ I am 27 years old. and I am ATC or air traffic controler. IT is an open secreat 
 *HTML
 *CSS/SASS
 
+##Education
+* Belarusian State Academy of Aviation
+* course(udemy HTML/CSS)
 
+##English
+B1
 
