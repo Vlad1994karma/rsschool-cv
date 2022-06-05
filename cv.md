@@ -7,6 +7,8 @@
 * __Email:__ karabanovichv@mail.ru 
 * __GitHub:__ Vlad1994karma
 
+##About Me
+I am 27 years old. and I am ATC or air traffic controler. IT is an open secreat that my job is well-paid. But in acordance with present situation aviation in our country has some problems. I desided to find another good job.
 
 
 
