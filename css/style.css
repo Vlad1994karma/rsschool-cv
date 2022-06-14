@@ -117,3 +117,22 @@ h1 {
     text-align: center;
     font-size: 30px;
 }
+
+.footer_wrapper {
+    height: 70px;
+    align-items: center;
+}
+
+.rs_logo {
+    width: 100px;
+    height: 50px;
+}
+
+.git_logo {
+    width: 100px;
+    height: 50px;
+}
+
+.data {
+    display: inline-block;
+}
