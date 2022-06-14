@@ -71,5 +71,49 @@ h1 {
 
 .subheader_information {
     font-size: 27px;
-    
+}
+
+.informations_wrapper {
+    height: 150px;
+    border-bottom: solid 4px;
+    border-bottom-color: rgba(243, 220, 86, 0.733);
+    padding: 20px;
+}
+
+.list_wrapper {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.informations_header {
+    color: rgba(58, 49, 2, 0.733);
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contacts_items {
+    text-align: center;
+    font-size: 20px;
+}
+
+.skills .list_wrapper {
+    list-style-type:circle;
+    font-size: 20px;
+}
+
+.skills .list_wrapper .skills_items {
+    font-size: 30px;
+}
+
+.education .list_wrapper {
+    list-style-type:circle;
+    font-size: 20px;
+}
+
+.english_items {
+    text-align: center;
+    font-size: 30px;
 }
