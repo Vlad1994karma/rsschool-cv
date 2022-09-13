@@ -4,7 +4,7 @@
 ## **Contacts**
 - __Location:__ Minsk, Belarus
 - __Phone:__ +375445987780
-- __Email:__ karabanovichv@mail.----------
+- __Email:__ karabanovichv@mail.ru 
 - __GitHub:__ Vlad1994karma
 
 
@@ -22,29 +22,17 @@ I am 28 years old. I am an air traffic controler. It is an open secret that toda
 
 ## **Code Example**
 var countBits = function(n) {
-
-if(n == 0){
-
-return 0;
-
-}
-
-let num = (n).toString(2);
-
-let index = 0;
-
-  for(let i = 0; i < num.length; i++){
-
-    if(num[i] == 1){
-
-      index++;
-
+    if(n == 0){
+        return 0;
     }
-
-  }
-
-  return index;
-
+    let num = (n).toString(2);
+    let index = 0;
+    for(let i = 0; i < num.length; i++){
+        if(num[i] == 1){
+            index++;
+        }
+    }
+    return index;
 }
 ============
 
